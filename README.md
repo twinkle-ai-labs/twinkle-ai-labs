@@ -11,7 +11,7 @@
 [블로그](https://blog.twinklelabs.kr) ·
 [포트폴리오](https://me.twinklelabs.kr) ·
 [velog](https://velog.io/@developer_khj) ·
-[메일](mailto:developer.heejeong@gmail.com)
+[메일](mailto:twinkle.ai.labs@gmail.com)
 
 </div>
 
