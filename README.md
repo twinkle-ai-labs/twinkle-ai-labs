@@ -1,82 +1,48 @@
-# 👋 Introduction
+<div align="center">
 
-Thanks for visiting.💖 <br>
-Now, let me introduce myself.<br>
+# ✦ Twinkle AI Labs
 
-Hi, My name is `김 희정 (Heejeong Kim)`. <br>
-I'm Full-stack developer.<br>
+**난 스스로 빛난다**
 
-If you are interested in me, please send a email to [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fascinate97@gmail.com)](mailto:fascinate97@gmail.com)
+한 사람과 AI 가 만드는 유틸리티 앱 스튜디오.<br>
+켜자마자 할 일이 끝나는 도구를 만듭니다.
 
-Ref) [@twinklekhj](https://github.com/twinklekhj). This is my sub account which is empty yet. 😁😁<br>
+[twinklelabs.kr](https://twinklelabs.kr) ·
+[블로그](https://blog.twinklelabs.kr) ·
+[포트폴리오](https://me.twinklelabs.kr) ·
+[velog](https://velog.io/@developer_khj) ·
+[메일](mailto:developer.heejeong@gmail.com)
 
-<br>
+</div>
 
-### 💻 Professional Experience
-- [20.07 ~ ] working at NICOM - Researcher / `Web Developer`
-- [19.09 ~ 19.12] worked at KIC Consulting for Internship - Researcher / `Atlassian Solution Supportor`
+---
 
-<br>
+## ✦ 만드는 것
 
-### 📝 Education
-- [16.03 ~ 20.02] `컴퓨터 공학` 학사 학위 취득
-- [19.07 ~ 19.08] `청년취업 아카데미` "JAVA 프레임워크 실무개발자 양성 단기 과정" 수료
+| | 무엇 | 어디서 |
+| --- | --- | --- |
+| 📱 | **물타기 계산기** — 첫 제품. 평단가와 물타기를 계산하는 안드로이드 매매 장부. 첫 커밋부터 Play 콘솔까지 2주. | [출시기 연재](https://blog.twinklelabs.kr/category/stock-calculator/) |
+| 📜 | **Polaris** — 여러 앱의 약관을 한 곳에서 기르고, 공개 페이지와 정적 JSON API 두 갈래로 뿌리는 약관 인프라. 서버도 데이터베이스도 없다. | [polaris.twinklelabs.kr](https://polaris.twinklelabs.kr) · [`polaris`](https://github.com/twinkle-ai-labs/polaris) |
+| 🎨 | **Aurora Ledger** — 모든 제품이 입는 한 벌. 물타기 계산기의 목업에서 태어나 모든 제품의 기준이 된 디자인 시스템. | [twinklelabs.kr/design](https://twinklelabs.kr/design) |
+| 🌌 | **Twinkle Blog** — 기록이 빛이 되는 곳. 만들며 배운 것을 적는 개발 블로그. | [blog.twinklelabs.kr](https://blog.twinklelabs.kr) · [`blog`](https://github.com/twinkle-ai-labs/blog) |
 
-<br>
+## ✦ 만드는 사람
 
-### 🏆 Certification 
-- [19.05.22] `정보처리기사` 취득
-- [22.05.28] `SQLD` 취득
+**김희정 (Heejeong Kim)** — 5년 넘게 웹 풀스택 개발자로 일하며
+열 개가 넘는 프로젝트를 기획부터 설계·개발·배포·운영까지 직접 책임졌습니다.
 
-<br>
+조직은 한 사람과 AI 둘입니다. AI 는 저를 대신하지 않고 제 생각을 넓힙니다.
+그래서 여기서 만드는 것은 앱 하나가 아닙니다 — 디자인 시스템과 약관 인프라와
+협업하는 방식까지, **앱을 계속 만들어낼 수 있는 체계**입니다.
 
-### 💎 Projects at NICOM
-#### API Server - [링크](https://api.enicom.co.kr/)
-- Apache web server configuration (Between WebServer and WAS using reverse proxy)
-- Various side projects (batch job, rest api, ...)
+## ✦ 적는 곳
 
-#### 스마트도서관 어플 개발 - [링크](https://m.smartlib.co.kr)
-- Hybrid Webapp 개발 - Android(Kotlin), IOS(Swift) using WebView, JavaScriptInterface
-- Messaging between **Server** and **Client** using **ActiveMQ**
+- 🌌 [blog.twinklelabs.kr](https://blog.twinklelabs.kr) — 개발 블로그. 첫 앱 출시기를 연재 중.
+- ✍️ [velog @developer_khj](https://velog.io/@developer_khj) — 짧은 기록들.
+- 👤 [me.twinklelabs.kr](https://me.twinklelabs.kr) — 만든 사람의 포트폴리오.
 
-#### 도서 검색페이지 - [링크1](https://smart.gdlibrary.or.kr:9525/book?no=1), [링크2](https://smartlib.mapo.go.kr:9525/)
-- Responsive Web (Mobile Support)
-- Access multi-DB(same scheme) using RoutingDataSource
-- IE Browser support issue
+<div align="center">
 
-<br>
+<sub>✦ 만들고 싶은 것을 만들어 내놓습니다 — 누가 자리를 만들어 주기를 기다리지 않고. ✦</sub>
 
-## 💖 Tech Stack
-I have experiences for these technologies <br>
-And I can make a system using these technologies
-
-#### 1. Back-end
-`Java`, `Spring MVC`, `Spring Boot`, `MyBatis`, `JPA`, `ActiveMQ`, `WebSocket`, `Spring Security`
-
-
-#### 2. Front-end
-`HTML/CSS`, `jQuery`, `Bootstrap`, `Tabulator`, `Tiles`, etc ...
-
-
-#### 3. Server
-`Linux`, `Apache`, `Tomcat`
-
-#### 4. Database
-`RDBMS` (MS-SQL, PostgreSQL, Oracle, ...)
-
-#### 5. DVCS
-`git`, `svn`
-
-#### 6. ETC
-* Native App (WebView): `kotlin`, `Android Studio`, `Swift5`, `iOS` - Simple WebView
-* Robot: `ROS` ⚡
-<br>
-
-## 💡 What I can do
-After reading my profile, It's likey that you just wonder what can I do.
-- To make front pages. Of course, it would be easy with a template.
-- To make rest api quickly
-- To build up projects with our team
-
-### 👀 Recently Interest
-- You can see my interest at [Blog](https://velog.io/@developer_khj) in detail
+</div>
